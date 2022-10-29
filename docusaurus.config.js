@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'eakam1007', // Usually your GitHub org/user name.
-  projectName: 'docusaurus sample', // Usually your repo name.
+  organizationName: 'Eakam1007', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-sample', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -79,8 +79,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Hello',
+                to: '/docs/hello',
               },
             ],
           },
