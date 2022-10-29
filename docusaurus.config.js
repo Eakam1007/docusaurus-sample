@@ -9,7 +9,7 @@ const config = {
   title: 'Sample Site',
   tagline: 'Dinosaurs are cool and so are you',
   url: 'https://eakam1007.github.io/docusaurus-sample',
-  baseUrl: '/',
+  baseUrl: '/docusaurus-sample/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
